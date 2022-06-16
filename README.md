@@ -1,6 +1,6 @@
 # Organizations Map Sample
 
-A Node.js script using.
+A Node.js script.
 
 ## Running Locally
 
