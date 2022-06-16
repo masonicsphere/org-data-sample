@@ -1,6 +1,6 @@
 # Organizations Map Sample
 
-A Node.js app using [Express 4](http://expressjs.com/).
+A Node.js script using.
 
 ## Running Locally
 
